@@ -1,0 +1,1002 @@
+[
+  {
+    "tweet_id": "tweet_1001",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1002",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1003",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1004",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1005",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1006",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1007",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1008",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1009",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1010",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1011",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1012",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1013",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1014",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1015",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1016",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1017",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1018",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1019",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1020",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1021",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1022",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1023",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1024",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1025",
+    "categories": [
+      "SearchAndRescue"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_FLOOD_RIVERVALE"
+  },
+  {
+    "tweet_id": "tweet_1026",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1027",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1028",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1029",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1030",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1031",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1032",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1033",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1034",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1035",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1036",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1037",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1038",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1039",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1040",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1041",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1042",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1043",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1044",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1045",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1046",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1047",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1048",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1049",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1050",
+    "categories": [
+      "MedicalNeeds"
+    ],
+    "priority": "Critical",
+    "cluster_id": "EVENT_EARTHQUAKE_CENTRAL"
+  },
+  {
+    "tweet_id": "tweet_1051",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1052",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1053",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1054",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1055",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1056",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1057",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1058",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1059",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1060",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1061",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1062",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1063",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1064",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1065",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1066",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1067",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1068",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1069",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1070",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1071",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1072",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1073",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1074",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1075",
+    "categories": [
+      "InfrastructureDamage"
+    ],
+    "priority": "High",
+    "cluster_id": "EVENT_WILDFIRE_PINEVALLEY"
+  },
+  {
+    "tweet_id": "tweet_1076",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1077",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1078",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1079",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1080",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1081",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1082",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1083",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1084",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1085",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1086",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1087",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1088",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1089",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1090",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1091",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1092",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1093",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1094",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1095",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1096",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1097",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1098",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1099",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1100",
+    "categories": [
+      "AffectedPopulation"
+    ],
+    "priority": "Medium",
+    "cluster_id": "EVENT_HURRICANE_COASTAL"
+  },
+  {
+    "tweet_id": "tweet_1101",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1102",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1103",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1104",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1105",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1106",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1107",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1108",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1109",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1110",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1111",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1112",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1113",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1114",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1115",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1116",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1117",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1118",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1119",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1120",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1121",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1122",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1123",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1124",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  },
+  {
+    "tweet_id": "tweet_1125",
+    "categories": [
+      "DonationsAndVolunteering"
+    ],
+    "priority": "Low",
+    "cluster_id": "EVENT_RELIEF_HARBOR"
+  }
+]

@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+scikit-learn
+sentence-transformers
+hdbscan
+faiss-cpu
+streamlit
+pyyaml
+joblib

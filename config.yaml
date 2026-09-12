@@ -1,0 +1,39 @@
+# Crisis Report Fusion & Priority Ranking Configuration
+
+paths:
+  raw_data_glob: "data/raw/*.json.gz"
+  raw_labels_path: "data/raw/labels.json"
+  processed_reports_path: "data/processed/filtered_reports.csv"
+  processed_variants_path: "data/processed/variants.csv"
+  embeddings_path: "data/embeddings/embeddings.npy"
+  id_lookup_path: "data/embeddings/id_lookup.npy"
+  cluster_profiles_path: "models/cluster_profiles.json"
+  category_model_path: "models/category_model.joblib"
+  priority_model_path: "models/priority_model.joblib"
+  faiss_index_path: "models/faiss.index"
+  predictions_path: "outputs/predictions.jsonl"
+  evaluation_report_path: "outputs/evaluation_report.json"
+
+models:
+  embedding_model_name: "sentence-transformers/all-MiniLM-L6-v2"
+  embedding_batch_size: 64
+  classifier_type: "logreg" # "logreg" or "svm"
+  priority_model_type: "ridge" # "ridge" or "logreg"
+
+clustering:
+  default_method: "agglomerative" # "hdbscan" or "agglomerative"
+  distance_threshold: 0.35
+  min_cluster_size: 2
+  metric: "cosine"
+  linkage: "average"
+
+retrieval:
+  top_k: 5
+  similarity_threshold: 0.65
+
+evaluation:
+  weights:
+    clustering: 35.0
+    category: 25.0
+    priority: 20.0
+    evidence: 15.0

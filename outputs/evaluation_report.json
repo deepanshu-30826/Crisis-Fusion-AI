@@ -1,0 +1,17 @@
+{
+  "num_evaluated_reports": 125,
+  "metrics": {
+    "clustering_pairwise_f1": 0.2014,
+    "category_macro_f1": 1.0,
+    "priority_ndcg": 1.0,
+    "evidence_completeness": 1.0
+  },
+  "points": {
+    "clustering_points": 7.05,
+    "category_points": 25.0,
+    "priority_points": 20.0,
+    "evidence_points": 15.0,
+    "total_score_95": 67.05,
+    "normalized_score_100": 70.58
+  }
+}
